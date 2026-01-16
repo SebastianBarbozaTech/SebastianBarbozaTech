@@ -20,5 +20,6 @@ Actualmente estoy en transición de **QA Manual a QA Automation**, y complemento
 - **Tienda (Proyecto personal - Frontend):** sitio web desarrollado con **HTML, CSS y JavaScript**. En proceso de mejora (UI, responsive y funcionalidades). 
 
 ## 📫 Contacto
-- LinkedIn: [Mi perfil](https://www.linkedin.com/in/sebasti%C3%A1n-barboza-sosa-a2473)- Email: sebastianbarboza.tech@gmail.com
-- Email: [sebastianbarboza.tech@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/sebasti%C3%A1n-barboza-sosa-a2473
+- Email: sebastianbarboza.tech@gmail.com
+
