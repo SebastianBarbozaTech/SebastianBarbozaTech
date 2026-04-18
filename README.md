@@ -1,9 +1,9 @@
 # Sebastián Barboza
 
-QA Analyst | FrontEnd Developer | Técnico en Tecnologías de la Información | Estudiante de TI (UTEC)
+QA Engineer | Full Stack Developer | Técnico en Tecnologías de la Información | Estudiante de TI (UTEC)
 
-Me enfoco en **QA y testing de software**, desde el diseño y ejecución de casos hasta la documentación de evidencias y el reporte de incidencias.  
-Actualmente estoy en transición de **QA Manual a QA Automation**, y complemento mi perfil con conocimientos de **programación frontend , backend y base de datos**, lo que me permite entender mejor el producto y colaborar de forma más efectiva con equipos de desarrollo.
+Me enfoco en **QA y desarrollo de software**, desde el diseño y ejecución de casos hasta la documentación de evidencias y el reporte de incidencias.  
+Complemento mi perfil con conocimientos de **programación frontend , backend y base de datos**, lo que me permite entender mejor el producto y colaborar de forma más efectiva con equipos de desarrollo.
 
 ## 🧰 Herramientas y tecnologías
  **Testing:** TestLink, Jira, Postman, diseño/ejecución de casos, regresión
